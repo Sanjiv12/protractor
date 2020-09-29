@@ -51,7 +51,7 @@
     "marked": "^0.3.3",
     "mocha": "2.5.3",
     "rimraf": "~2.5.3",
-    "run-sequence": "^1.1.5",
+    "run-sequence": "^2.2.1",
     "semver": "^5.3.0",
     "tslint": "^4.1.1",
     "tslint-eslint-rules": "^3.1.0",
